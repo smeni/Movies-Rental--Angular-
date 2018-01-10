@@ -1,0 +1,216 @@
+C:\Users\smeni\Desktop\MoviesRental\1.UI\obj\Debug\1.UI.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\MoviesRental\1.UI\obj\Debug\1.UI.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\ApplicationInsights.config
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\1.UI.dll.config
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\1.UI.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\1.UI.pdb
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\2.BL.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\3.DAL.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\4.Entities.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Antlr3.Runtime.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\EntityFramework.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.Web.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Newtonsoft.Json.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.Helpers.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.Mvc.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.Optimization.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.Razor.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.WebPages.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\WebGrease.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\2.BL.pdb
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\2.BL.dll.config
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\3.DAL.pdb
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\3.DAL.dll.config
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\4.Entities.pdb
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\EntityFramework.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.Helpers.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.Mvc.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.Optimization.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.Razor.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.WebPages.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Antlr3.Runtime.pdb
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Newtonsoft.Json.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\bin\Microsoft.AI.Web.xml
+C:\Users\smeni\Desktop\MoviesRental\1.UI\obj\Debug\1.UI.dll
+C:\Users\smeni\Desktop\MoviesRental\1.UI\obj\Debug\1.UI.pdb
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\ApplicationInsights.config
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.dll.config
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.pdb
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\4.Entities.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Antlr3.Runtime.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.SqlServer.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Agent.Intercept.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.DependencyCollector.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Web.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.WindowsServer.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.ApplicationInsights.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.Web.Infrastructure.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Newtonsoft.Json.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Helpers.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Mvc.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Optimization.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Razor.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Deployment.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Razor.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\WebGrease.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.pdb
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.dll.config
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.pdb
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.dll.config
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\4.Entities.pdb
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.SqlServer.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Helpers.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Mvc.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Optimization.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Razor.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Deployment.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Razor.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Antlr3.Runtime.pdb
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Newtonsoft.Json.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.ApplicationInsights.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.DependencyCollector.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.WindowsServer.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Web.xml
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.csprojResolveAssemblyReference.cache
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.csproj.CoreCompileInputs.cache
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.dll
+F:\גיבוי פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.pdb
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\ApplicationInsights.config
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.dll.config
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.pdb
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\4.Entities.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Antlr3.Runtime.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Web.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Newtonsoft.Json.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Helpers.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Mvc.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Optimization.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Razor.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\WebGrease.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.pdb
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.dll.config
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.pdb
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.dll.config
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\4.Entities.pdb
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Helpers.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Mvc.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Optimization.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Razor.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Antlr3.Runtime.pdb
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Newtonsoft.Json.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Web.xml
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.pdb
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\ApplicationInsights.config
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.dll.config
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\1.UI.pdb
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\4.Entities.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Antlr3.Runtime.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.SqlServer.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Web.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Newtonsoft.Json.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Helpers.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Mvc.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Optimization.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Razor.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\WebGrease.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.pdb
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\2.BL.dll.config
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.pdb
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\3.DAL.dll.config
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\4.Entities.pdb
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\EntityFramework.SqlServer.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Helpers.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Mvc.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Optimization.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.Razor.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Antlr3.Runtime.pdb
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Newtonsoft.Json.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\bin\Microsoft.AI.Web.xml
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\1.UI\obj\Debug\1.UI.pdb

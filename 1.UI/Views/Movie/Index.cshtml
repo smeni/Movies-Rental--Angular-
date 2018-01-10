@@ -1,0 +1,46 @@
+﻿
+
+
+<div ng-app="myApp">
+    <br />
+    <div ng-controller="moviesCtrl">
+        <br />
+
+        <div>
+            <span>סנן לפי קטגוריה</span>
+            <select ng-model="currentCategory">
+                <option ng-repeat="x in categoris">{{x}}</option>
+            </select>
+        </div>
+        <br />
+        <div id="container">
+
+            <table class="table">
+                <tr>
+                    <td><button ng-click="sortBy('Picture')">Picture      <img ng-src="~/Content/Images/{{sortDirection}}.ico" ng-if="selected == 'Picture'" /></button></td>
+                    <td><button ng-click="sortBy('MovieName')">MovieName   <img ng-src="~/Content/Images/{{sortDirection}}.ico" ng-if="selected == 'MovieName'" /> </button></td>
+                    <td><button ng-click="sortBy('CategoryName')">Category  <img ng-src="~/Content/Images/{{sortDirection}}.ico" ng-if="selected == 'Category'" />   </button></td>
+                    <td><button>MovieTrailer<img ng-src="~/Content/Images/{{sortDirection}}.ico" ng-if="selected == 'MovieTrailer'" /></button></td>
+                    <td><button ng-click="sortBy('Level')">Price   <img ng-src="~/Content/Images/{{sortDirection}}.ico" ng-if="selected == 'Price'" /></button></td>
+                    <td><button>Rent</button> </td>
+                </tr>
+                <tr ng-repeat="m in movies|filter:CategoryName=currentCategory |orderBy:orderByField">
+                    <td>
+                        <img src="~/Content/Images/{{m.Picture}}" style="height:100px; width:100px" />
+                    </td>
+                    <td>{{m.MovieName}}</td>
+                    <td>{{m.CategoryName}}</td>
+                    <td><a href="{{m.MovieTrailer}}"><img src="~/Content/Images/youtubeLogo.jpg" style="height:50px; width:50px; " /></a>
+                    <td>{{m.Level|currency:"₪"}}</td>
+                    <td><a href="/Movie/ClientChoice?movieID={{m.MovieID}}">For rente</a></td>
+                </tr>
+            </table>
+        </div>
+
+
+
+        <script src="~/Scripts/angular.min.js"></script>
+        <script src="~/Coode/moviesByAngular.js"></script>
+    </div>
+</div>
+

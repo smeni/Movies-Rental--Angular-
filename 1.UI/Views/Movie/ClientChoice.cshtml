@@ -1,0 +1,61 @@
+﻿@*selected mpvie Screen*@
+
+@model _1.UI.Models.OrderDetailsVM
+
+<div>
+    <h4>אישור פרטי הזמנה</h4>
+    <hr />
+    <div id="userNameByCookie">
+
+    </div>
+    <div>
+        <div>
+            <span id="movieid">@Model.MovieID</span>
+        </div>
+
+
+        @Html.DisplayName("מועד השכרה")
+        <span id="startDate"> @Model.StartDate.ToString("yyyy-MM-dd")</span>
+    </div>
+
+    <div>
+        <img src="~/Content/Images/@Model.Picture" style="height:250px; width:250px" />
+    </div>
+
+    <div>
+        @Html.DisplayName("שם הסרט שנבחר:")
+        <span>
+            @Html.DisplayFor(model => model.MovieName)
+        </span>
+    </div>
+    <div>
+        @Html.DisplayName("קטגוריית הסרט:")
+        <span>
+            @Html.DisplayFor(model => model.CategoryName)
+        </span>
+    </div>
+    <div>
+        <span>
+            <a href="@Html.DisplayFor(modelItem => modelItem.MovieTrailer)"><img src="~/Content/Images/youtubeLogo.jpg" style="height:50px; width:50px; " /></a>
+        </span>
+    </div>
+    <div>
+        @Html.DisplayName(" סך הכל לתשלום בהזמנה זו:")
+        <span>
+            @Html.DisplayFor(model => model.Price)
+        </span>
+    </div>
+
+</div>
+<br />
+<div>
+    <input type="button" id="confirm" value="לאישור פרטי הזמנה ולמעבר לצפיה בסרט" />
+    @Html.ActionLink("לחזרה לרשימת הסרטים", "Index")
+</div>
+
+<div id="container"></div>
+
+@section scripts{
+
+    <script src="~/Coode/Mouvie_ClienyCoice_Scripts.js"></script>
+}

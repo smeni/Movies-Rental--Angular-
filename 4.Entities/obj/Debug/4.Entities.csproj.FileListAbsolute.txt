@@ -1,0 +1,18 @@
+C:\Users\smeni\Desktop\MoviesRental\4.Entities\bin\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\MoviesRental\4.Entities\bin\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\MoviesRental\4.Entities\obj\Debug\4.Entities.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\MoviesRental\4.Entities\obj\Debug\4.Entities.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\MoviesRental\4.Entities\obj\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\MoviesRental\4.Entities\obj\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\4.Entities\bin\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\4.Entities\bin\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\4.Entities\obj\Debug\4.Entities.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\4.Entities\obj\Debug\4.Entities.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\4.Entities\obj\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\גיבוי פרוייקט סרטים\MoviesRental\4.Entities\obj\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\4.Entities\bin\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\4.Entities\bin\Debug\4.Entities.pdb
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\4.Entities\obj\Debug\4.Entities.csprojResolveAssemblyReference.cache
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\4.Entities\obj\Debug\4.Entities.csproj.CoreCompileInputs.cache
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\4.Entities\obj\Debug\4.Entities.dll
+C:\Users\smeni\Desktop\פרוייקט סרטים\MoviesRental\4.Entities\obj\Debug\4.Entities.pdb

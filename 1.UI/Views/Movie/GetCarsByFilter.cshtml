@@ -1,0 +1,49 @@
+﻿@model IEnumerable<_1.UI.Models.MoviesVM>
+
+<div id="container">
+    <table class="table">
+        <tr>
+            @*<th>
+                    @Html.DisplayNameFor(model => model.MovieID)
+                </th>*@
+            <th>
+                @Html.DisplayNameFor(model => model.Picture)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieTrailer)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                @Html.HiddenFor(modelItem => item.MovieID)
+                <td>
+                    <img src="~/Content/Images/@item.Picture" style="height:100px; width:100px" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.MovieName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CategoryName)
+                </td>
+                <td>
+                    <a href="@Html.DisplayFor(modelItem => item.MovieTrailer)"><img src="~/Content/Images/youtubeLogo.jpg" style="height:50px; width:50px; " /></a>
+                </td>
+                <td name="link">
+                    @Html.ActionLink("Watch now", "ClientChoice", new { movieID = item.MovieID })
+                </td>
+                <td>
+            </tr>
+        }
+
+    </table>
+
+</div>
